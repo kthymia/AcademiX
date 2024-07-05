@@ -24,7 +24,7 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
   <img src="https://github.com/kthymia/CS152-Portfolio/assets/160714262/e6123f20-9767-4c1e-921f-65b7e926a5a3" alt="AcademiX Logo" />
 </p>
 <h3 align="center">FLUX Developers</h3>
-<p align="center">We are the Flux Developers, creators of AcademiX.Team Flux emphasizes the concept of three individuals who are 
+<p align="center">We are the Flux Developers, creators of AcademiX! Team Flux emphasizes the concept of three individuals who are 
   interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
 
 <h4 align="center">Members</h4>
