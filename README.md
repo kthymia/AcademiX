@@ -1,4 +1,4 @@
-![Add a subheading (1)](https://github.com/kthymia/CS152-Portfolio/assets/160714262/682aa4f6-527c-47f4-bf46-df65bf43e90c)
+![Add a subheading](https://github.com/kthymia/CS152-Portfolio/assets/160714262/ec906d3b-6d29-4270-b91e-6d319a643be1)
 
 # Academix Document Portfolio
 
