@@ -3,3 +3,8 @@
 # Academix Document Portfolio
 
 Welcome to the AcademiX Document Portfolio repository! We are the Flux development team, creators of AcademiX – an all-in-one student platform designed to supercharge learning.
+
+Team Members
+- Ken Gyrro Acquiat
+- Zachary Ben Hao
+- Kathlyn Anne Mejia
