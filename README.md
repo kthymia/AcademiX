@@ -1,13 +1,37 @@
-
-![Add a subheading (3)](https://github.com/kthymia/CS152-Portfolio/assets/160714262/13271684-0e8f-476b-af83-06ba35c4eb7a)
-
-# Academix Document Portfolio
-
-Welcome to the AcademiX Document Portfolio repository! 
+<p align="center">
+  <img src="https://github.com/kthymia/CS152-Portfolio/assets/160714262/13271684-0e8f-476b-af83-06ba35c4eb7a" alt="EcoBridge Logo" />
+</p>
 
 <h1 align="center">EcoBridge Document Portfolio</h1>
-We are the Flux development team, creators of AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
 
+<p align="center">Welcome to the EcoBridge Document Portfolio repository! This repository contains comprehensive documentation and resources for the EcoBridge agriculture app prototype.</p>
 
+## Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
+## Introduction
+<!-- Your introduction content -->
 
+## Features
+<!-- Your features content -->
+
+## Installation
+<!-- Your installation instructions -->
+
+## Usage
+<!-- Your usage instructions -->
+
+## Contributing
+<!-- Your contribution guidelines -->
+
+## License
+<!-- Your license information -->
+
+## Contact
+<!-- Your contact information -->
