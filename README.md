@@ -27,7 +27,7 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
 <p align="center">We are the Flux Developers, creators of AcademiX.Team Flux emphasizes the concept of three individuals who are 
   interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
 
-<h4 align="center">FLUX Developers</h4>
+<h4 align="center">Members</h4>
 <p align="center">Ken Gyrro Acquiat</p>
 <p align="center">Zachary Ben Hao</p>
 <p align="center">Kathlyn Anne Mejia</p>
