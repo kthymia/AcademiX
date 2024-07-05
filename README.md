@@ -17,6 +17,8 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
 - Part 2: Documents from the second phase.
 - Part 3: Documents from the third phase.
 - Part 4: Documents from the final phase and project completion.
+
+---
   
 <p align="center">
   <img src="https://github.com/kthymia/CS152-Portfolio/assets/160714262/e6123f20-9767-4c1e-921f-65b7e926a5a3" alt="AcademiX Logo" />
@@ -24,6 +26,8 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
 <h3 align="center">FLUX Developers</h3>
 <p align="center">We are the Flux Developers, creators of AcademiX.Team Flux emphasizes the concept of three individuals who are 
   interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
-<p align="center">- Ken Gyrro Acquiat</p>
-<p align="center">- Zachary Ben Hao</p>
-<p align="center">- Kathlyn Anne Mejia</p>
+
+<h4 align="center">FLUX Developers</h4>
+<p align="center">Ken Gyrro Acquiat</p>
+<p align="center">Zachary Ben Hao</p>
+<p align="center">Kathlyn Anne Mejia</p>
