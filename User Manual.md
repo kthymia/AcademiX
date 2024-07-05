@@ -50,9 +50,9 @@ collaborative and supportive online community.</p>
 ---
 
 # OUR TEAM
-<h4 align="center">Ken Gyrro Acquiat</h4> 
-<h4 align="center">Zachary Ben Hao</h4>
-<h4 align="center">Kathlyn Anne Mejia</h4>
+<h4>Ken Gyrro Acquiat</h4> 
+<h4>Zachary Ben Hao</h4>
+<h4>Kathlyn Anne Mejia</h4>
 
 ---
 
