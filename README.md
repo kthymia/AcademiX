@@ -1,37 +1,17 @@
 <p align="center">
-  <img src="https://github.com/kthymia/CS152-Portfolio/assets/160714262/13271684-0e8f-476b-af83-06ba35c4eb7a" alt="EcoBridge Logo" />
+  <img src="https://github.com/kthymia/CS152-Portfolio/assets/160714262/4a0c41e8-c65e-4c2e-8693-5b7720d087cc" alt="AcademiX Logo" />
 </p>
 
-<h1 align="center">EcoBridge Document Portfolio</h1>
+<h1 align="center">AcademiX Document Portfolio</h1>
 
-<p align="center">Welcome to the EcoBridge Document Portfolio repository! This repository contains comprehensive documentation and resources for the EcoBridge agriculture app prototype.</p>
-
-## Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+<p align="center">Welcome to the AcademiX Document Portfolio repository! We are the Flux Developers, creators of AcademiX.</p>
 
 ## Introduction
-<!-- Your introduction content -->
+AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
 
-## Features
-<!-- Your features content -->
 
-## Installation
-<!-- Your installation instructions -->
-
-## Usage
-<!-- Your usage instructions -->
-
-## Contributing
-<!-- Your contribution guidelines -->
-
-## License
-<!-- Your license information -->
-
-## Contact
-<!-- Your contact information -->
+<h3 align="center">FLUX Developers</h3>
+<p align="center">Team Flux emphasizes the concept of three individuals who are interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
+<p align="center">- Ken Gyrro Acquiat</p>
+<p align="center">- Zachary Ben Hao</p>
+<p align="center">- Kathlyn Anne Mejia</p>
